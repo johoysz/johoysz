@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johoysz
 - 👀 I’m interested in coding, editing, and design.
 - 🌱 I’m currently learning everything hahahah just a student
-- 📫 How to reach me email me at needle.breaker1@gmail.com
+- 📫 How to reach me email me at joy.buangjug@gmail.com
 
 <!---
 johoysz/johoysz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
