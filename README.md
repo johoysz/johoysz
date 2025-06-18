@@ -20,9 +20,17 @@ Here are a few tools and languages I’ve worked with:
 - Design: `Figma`, `Photoshop`, `Lightroom`, `Canva`
 - Others: `Git`, `MySQL`, `CloudPano`, `Inertia.js`, `HuggingFace`, `FlowiseAI`, `Heroku`, `Docker`
 
+## 🌐 Portfolio
+Check out my work and projects here:  
+🔗 [https://johoysz.github.io/portfolio](https://johoysz.github.io/portfolio)
+
 ---
 
-> "Start where you are. Use what you have. Do what you can. Love it. Make mistakes. Learn."  
+> "Start where you are. Use what you have. Do what you can."
+> -Arthur Ashe
+
+
+> "Love it. Make mistakes. Learn."
 
 <!---
 johoysz/johoysz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
