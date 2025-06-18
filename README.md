@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm @johoysz
 
-🎓 Just graduated — currently in that exciting (and terrifying) phase of figuring it all out.
+🎓 Just graduated, currently in that exciting (and terrifying) phase of figuring it all out.
 
 ## 🚀 About Me
 - 💡 I’m passionate about **coding**, **design**, and a bit of **creative editing**.
