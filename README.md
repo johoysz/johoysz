@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 💡 I’m passionate about **coding**, **design**, and a bit of **creative editing**.
-- 🔍 Always exploring new tools, frameworks, and workflows.
+- 🔍 Always exploring new tools.
 - 🧠 Currently learning *everything*, one coffee-fueled session at a time.
 - ⚡ Slightly scared of being a *jack of all trades, master of none*, but hey, **doing it scared is still doing it** 😄
 
