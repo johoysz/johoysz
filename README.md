@@ -15,10 +15,10 @@
 
 ## 🛠️ Tech Stack
 Here are a few tools and languages I’ve worked with:
-- Languages: `JavaScript`, `Python`, `Java`, `PHP`
+- Languages: `PHP`, `C#`, `JavaScript`, `Python`, `Java`
 - Web: `HTML/CSS`, `Laravel`, `React`, `ASP.NET`
 - Design: `Figma`, `Photoshop`, `Lightroom`, `Canva`
-- Others: `Git`, `MySQL`, `CloudPano`, `Inertia.js`, `HuggingFace`, `FlowiseAI`, `Heroku`, `Docker`
+- Others: `Git`, `PostgreSQL`, `MySQL`, `CloudPano`, `Inertia.js`, `HuggingFace`, `FlowiseAI`, `Heroku`, `Docker`
 
 ## 🌐 Portfolio
 Check out my work and projects here:  
